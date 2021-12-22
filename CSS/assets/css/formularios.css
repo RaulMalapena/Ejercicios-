@@ -1,0 +1,18 @@
+.formulario{
+
+border: 1px solid coral;
+
+}
+
+.clase-nombre {
+
+border: 2px solid firebrick;
+
+border-radius: 2px;
+
+}
+
+#pasword{
+    border: 2px solid darkturquoise;
+
+}

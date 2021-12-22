@@ -1,0 +1,16 @@
+table,tr,th,td{
+    border: 1px solid black;
+}
+
+table{
+
+}
+
+th{
+    background-color: chartreuse;
+}
+
+tr{
+
+    background-color: cyan;
+}

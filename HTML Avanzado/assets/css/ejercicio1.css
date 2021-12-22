@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+
+body{
+
+    background-color: cyan;
+}
+
+.naranja{
+
+    background-color: orangered;
+    
+}
+
+table,tr,th,td{
+    border: 1px solid black;
+    margin: auto;
+}
+
+.verde{
+
+    background-color: greenyellow;
+}
+
+.negro{
+
+    background-color: black;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}

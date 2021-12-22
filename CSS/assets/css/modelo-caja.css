@@ -1,0 +1,42 @@
+body{
+
+    background-image: url(https://i0.wp.com/www.silocreativo.com/wp-content/uploads/2015/03/fondo-geometrico-gratis.jpg?resize=600%2C370&quality=100&strip=all&ssl=1);
+}
+
+.title {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle{
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.caja{
+
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.rojo{
+
+    background-color: red;
+    border: 1px solid red; 
+}
+
+.verde{
+
+    background-color: green;
+    border-radius: 10px;
+}
+
+.azul{
+
+    background-color: blue;
+    border-top-right-radius: 10px;
+}

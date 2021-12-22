@@ -1,0 +1,33 @@
+
+        
+        /*Estos son comentarios calnal*/
+        .encabezado {
+            font-size:  72px;
+            color: rgb(41, 226, 226);
+
+            background-color: rgb(255, 115, 0);
+
+            text-align: center;
+
+            text-transform:capitalize;
+
+
+        }
+
+        body{
+
+            background-color: darkgray;
+        }
+    
+        p{
+
+            color: darkgreen;
+            background-color: rgb(179, 29, 29);
+
+        }
+
+        .texto{
+
+            color: white;
+            background-color: black;
+        }
